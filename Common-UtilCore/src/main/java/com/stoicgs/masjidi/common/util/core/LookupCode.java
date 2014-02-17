@@ -3,7 +3,13 @@ package com.stoicgs.masjidi.common.util.core;
 /**
  * Refer to documentation of LookupType. LookupType is the type that holds
  * multiple lookupCodes.
- * 
+ * An example lookup Code will be 
+ *      Type - Gender
+ *      Code - M
+ *      language - EN
+ *      meaning - Male
+ *      description - This code represents Male.
+ *  
  * @author Nisar
  * 
  */
